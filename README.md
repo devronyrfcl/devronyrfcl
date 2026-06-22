@@ -86,9 +86,9 @@ Developing engaging mobile experiences with optimized performance and polished g
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: YOUR_LINKEDIN
-* 🌐 Portfolio: YOUR_WEBSITE
-* 📧 Email: YOUR_EMAIL
+* 💼 LinkedIn: www.linkedin.com/in/rashadul-islam-rony
+* 🌐 Portfolio: devrony.com
+* 📧 Email: me@devrony.com
 
 ---
 
